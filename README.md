@@ -1,5 +1,3 @@
-<a href="https://www.learnenough.com/certificates/blackerby"><img src="https://www.learnenough.com/certificates/blackerby/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a><a href="https://www.learnenough.com/certificates/blackerby"><img src="https://www.learnenough.com/certificates/blackerby/html-tutorial.svg" alt="Certificate of Completion for Learn Enough HTML"></a><a href="https://www.learnenough.com/certificates/blackerby"><img src="https://www.learnenough.com/certificates/blackerby/ruby-tutorial.svg" alt="Certificate of Completion for Learn Enough Ruby"></a><a href="https://www.learnenough.com/certificates/blackerby"><img src="https://www.learnenough.com/certificates/blackerby/ruby-on-rails-6th-edition-tutorial.svg" alt="Certificate of Completion for The Ruby on Rails Tutorial, 6th Ed."></a>
-
 <!--
 **blackerby/blackerby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
